@@ -9,3 +9,5 @@ echo "We are done with git"
 echo "This example is of branching strategy"
 echo "helloe Batch 16 we are Learning Git hub'
 echo "GM"
+echo "Ww arc Chnaing Scirpt 1"
+echo "we have Applied Chnages In main Branch"
